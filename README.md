@@ -18,8 +18,8 @@ A simple Python script to generate secure passwords with customizable options fo
    cd PasswordGenerator
    python generate_password.py
 
- M     M   RRRRR    N   N    OOOOO    BBBBB    OOOOO    DDDD     Y   Y  
- MM   MM   R    R   NN  N   O     O   B    B   O     O   D   D     Y Y   
- M M M M   RRRRR    N N N   O     O   BBBBB    O     O   D   D      Y    
- M  M  M   R  R     N  NN   O     O   B    B   O     O   D   D      Y    
- M     M   R   R    N   N   OOOOO    BBBBB    OOOOO    DDDD       Y    
+## M     M   RRRRR    N   N    OOOOO    BBBBB    OOOOO    DDDD     Y   Y  
+## MM   MM   R    R   NN  N   O     O   B    B   O     O   D   D     Y Y   
+## M M M M   RRRRR    N N N   O     O   BBBBB    O     O   D   D      Y    
+## M  M  M   R  R     N  NN   O     O   B    B   O     O   D   D      Y    
+## M     M   R   R    N   N   OOOOO    BBBBB    OOOOO    DDDD       Y    
