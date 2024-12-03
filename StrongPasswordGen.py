@@ -1,11 +1,10 @@
 import random
 import string
-
 def generate_password():
     
-    length = int(input("Enter the desired password length: "))
-    include_digits = input("Include digits? (yes or no): ").lower() in ['yes', 'y']
-    include_special_chars = input("Include special characters? (yes or no): ").lower() in ['yes', 'y']
+    length = int(input("Enter The Password Length: "))
+    include_digits = input("Include Digits? (yes or no): ").lower() in ['yes', 'y']
+    include_special_chars = input("Include Special Characters? (yes or no): ").lower() in ['yes', 'y']
 
     characters = string.ascii_letters
     if include_digits:
@@ -17,3 +16,5 @@ def generate_password():
     return password
 password = generate_password()
 print("Generated Password:", password)
+
+# Code By MrNobody...
